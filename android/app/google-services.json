@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "437922572321",
+    "firebase_url": "https://flutter-qr-test-a35f2.firebaseio.com",
+    "project_id": "flutter-qr-test-a35f2",
+    "storage_bucket": "flutter-qr-test-a35f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437922572321:android:69ca7d014d3d4738",
+        "android_client_info": {
+          "package_name": "com.dragosholban.flutterqrtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437922572321-hat4vpbs9mpipa2p0alkqcrjgh3s39vr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrU1V9hLf1H5OBIyERIgyFojSGF5fqT9Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
